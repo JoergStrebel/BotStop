@@ -1,0 +1,14 @@
+autom4te.cache/*
+src/.deps/*
+*.o
+src/old_*
+twitter4j.properties
+bin/*
+src/main/resources/*
+target/
+logfile.*
+logfile
+.directory
+*.csv
+scripts/*.csv
+
